@@ -1,0 +1,18 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 16 Aug 2021 08:07:46 at https://iphone11giveaway.club/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://iphone11giveaway.club/ -O1 "C:\My Web Sites\Ip3" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+08:09:35	Error: 	"Not Found" (404) at link https://iphone11giveaway.club/connect.facebook.net/en_US/fbevents.html (from https://iphone11giveaway.club/)
+08:09:35	Error: 	"Not Found" (404) at link https://iphone11giveaway.club/static.addtoany.com/menu/page.html (from https://iphone11giveaway.club/)
+08:09:35	Error: 	"Not Found" (404) at link https://iphone11giveaway.club/img-sys/favicon.html (from https://iphone11giveaway.club/img/apple-icon-57x57.html)
+08:09:35	Error: 	"Not Found" (404) at link https://iphone11giveaway.club/img-sys/css/style.min.html (from https://iphone11giveaway.club/img/apple-icon-57x57.html)
+08:09:35	Error: 	"Not Found" (404) at link https://iphone11giveaway.club/img-sys/js/respond.min.html (from https://iphone11giveaway.club/img/apple-icon-57x57.html)
+08:09:35	Error: 	"Not Found" (404) at link https://iphone11giveaway.club/img-sys/js/modernizr-2.6.2.min.html (from https://iphone11giveaway.club/img/apple-icon-57x57.html)
+08:09:35	Error: 	"Not Found" (404) at link https://iphone11giveaway.club/img-sys/img/snappy.html (from https://iphone11giveaway.club/img/apple-icon-57x57.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 50 seconds : 55 links scanned, 47 files written (1362663 bytes overall) [1003350 bytes received at 9121 bytes/sec], 530629 bytes transferred using HTTP compression in 36 files, ratio 27%
+(7 errors, 0 warnings, 0 messages)
